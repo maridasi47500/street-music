@@ -1,2 +1,4 @@
 # street-music
-video flash mob, connect fake wifi airport to find ideal date
+- video flash mob,
+- airports, train stations, street, music
+- connect fake   wifi to find ideal date
